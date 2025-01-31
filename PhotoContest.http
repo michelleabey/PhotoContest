@@ -1,0 +1,6 @@
+@PhotoContest_HostAddress = https://localhost:7292
+
+GET {{PhotoContest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
